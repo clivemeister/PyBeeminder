@@ -1,0 +1,1 @@
+todoist_api_python==2.1.3
