@@ -3,3 +3,5 @@ road.csv
 .vscode/launch.json
 __pycache__/beeminder.cpython-39.pyc
 WARP.md
+.vs/
+*.code-workspace
